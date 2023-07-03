@@ -1,5 +1,8 @@
 # Doceree
 
+
+### Explaination Video : (https://drive.google.com/drive/folders/1Kll0edcL_iRFZdGCuehTIlVcbGDpuMJH)
+
 ## Brief Description of the Problem at hand: 
 ### OBJECTIVE: 
 #### To build a robust and explainable machine learning solution to accurately classify if a user belongs to the Healthcare Professional (HCP) category and identify their specialization(Taxonomy) from ad server logs.
